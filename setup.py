@@ -17,7 +17,7 @@ setup(
     license = "MIT",
     keywords = "usefull useless tools sgysh3nka",
     url = "http://packages.python.org/sgysh3nkatools",
-    packages=['sgtools', 'tests'],
+    packages=['sgysh3nkatools', 'tests'],
     long_description=read('README'),
     classifiers=[
         "Development Status :: 1 - Release",
