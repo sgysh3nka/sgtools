@@ -17,7 +17,7 @@ setup(
     license = "MIT",
     keywords = "usefull useless tools sg",
     url = "http://packages.python.org/sgtools",
-    packages=['sgtools'],
+    packages=['sgtools', 'tests'],
     long_description=read('README.md'),
     classifiers=[
         "Development Status :: 1 - Release",
