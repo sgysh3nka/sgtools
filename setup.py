@@ -9,16 +9,16 @@ def read(fname):
     return open(os.path.join(os.path.dirname(__file__), fname)).read()
 
 setup(
-    name = "sgtools",
+    name = "sgysh3nkatools",
     version = "0.0.1",
     author = "sgysh3nka",
     author_email = "sgysh3nka@ya.ru",
     description = ("Maybe useless tools."),
     license = "MIT",
-    keywords = "usefull useless tools sg",
-    url = "http://packages.python.org/sgtools",
+    keywords = "usefull useless tools sgysh3nka",
+    url = "http://packages.python.org/sgysh3nkatools",
     packages=['sgtools', 'tests'],
-    long_description=read('README.md'),
+    long_description=read('README'),
     classifiers=[
         "Development Status :: 1 - Release",
         "Topic :: Utilities",
