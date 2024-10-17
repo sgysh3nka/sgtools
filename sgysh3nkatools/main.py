@@ -1,7 +1,7 @@
 from os import *
 
 
-print("Using sgtools.")
+print("Using sgysh3nkatools.")
 
 class Roleplay():
 	def hate(who, howmany):
