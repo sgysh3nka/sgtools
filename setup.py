@@ -18,7 +18,7 @@ setup(
     keywords = "usefull useless tools sg",
     url = "http://packages.python.org/sgtools",
     packages=['sgtools'],
-    long_description=read('README'),
+    long_description=read('README.md'),
     classifiers=[
         "Development Status :: 1 - Release",
         "Topic :: Utilities",
